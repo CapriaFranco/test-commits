@@ -8,6 +8,7 @@
   "redirects": [
     {
       "source": "/",
+      "destination": "https://gb-stats-capri.vercel.app"
     }
   ]
 }
